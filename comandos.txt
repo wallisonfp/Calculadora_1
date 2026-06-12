@@ -1,0 +1,14 @@
+# Criar o arquivo da calculadora
+nano calculadora.sh
+
+# Verificar se o arquivo existe
+ls
+
+# Ver permissões
+ls -l
+
+# Alterar permissões
+chmod 744 calculadora.sh
+
+# Executar o script
+./calculadora.sh
